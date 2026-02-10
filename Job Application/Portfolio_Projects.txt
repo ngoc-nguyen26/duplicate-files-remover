@@ -1,0 +1,37 @@
+MY PROJECT PORTFOLIO
+=====================
+
+Project 1: E-Commerce Platform
+-------------------------------
+Tech Stack: React, Node.js, PostgreSQL, AWS
+Description: Built a full-stack e-commerce platform with product catalog,
+shopping cart, and payment integration using Stripe.
+GitHub: github.com/johndoe/ecommerce-platform
+Live Demo: ecommerce-demo.com
+
+Project 2: Weather Forecast App
+--------------------------------
+Tech Stack: React, OpenWeather API, Chart.js
+Description: Real-time weather application with 7-day forecasts and 
+interactive charts. Deployed on Vercel.
+GitHub: github.com/johndoe/weather-app
+Live Demo: weather-johndoe.vercel.app
+
+Project 3: Task Management System
+----------------------------------
+Tech Stack: Python, FastAPI, React, MongoDB
+Description: Collaborative task manager with real-time updates using 
+WebSockets. Features include drag-and-drop, due dates, and team sharing.
+GitHub: github.com/johndoe/task-manager
+Live Demo: tasks.johndoe.dev
+
+Certifications:
+- AWS Certified Solutions Architect
+- Google Cloud Professional Developer
+
+Skills Demonstrated:
+- Full-stack development
+- API design and development
+- Database design and optimization
+- Cloud deployment (AWS, Vercel)
+- Real-time applications
