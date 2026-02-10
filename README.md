@@ -7,8 +7,8 @@ The purpose is to remove duplicate files in the same/ different directory where 
 * hashlib
 
 ### Run the script by providing its full path
-Use the `Job Application` folder for reference if needed
-Execute `python duplicatefileremover.py` 
+Use the `Job Application` folder for reference if needed.
+**Execute** `python duplicatefileremover.py` 
 
 ### Screenshot/GIF showing the sample use of the script
 ![Screenshot of the Output](Output_Screenshot.png)
